@@ -61,4 +61,4 @@ function intToRoman(num: number): string {
 }
 
 const num12: number = 1994;
-console.log(intToRoman(num));
+console.log(intToRoman(num12));
