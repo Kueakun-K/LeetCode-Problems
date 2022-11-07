@@ -60,5 +60,5 @@ function intToRoman(num: number): string {
   return output;
 }
 
-const num: number = 1994;
+const num12: number = 1994;
 console.log(intToRoman(num));
