@@ -1,4 +1,4 @@
-def searchRange(nums, target): #with Olon(n) algorithm
+def searchRange(nums, target): #with O(log n) algorithm
     def findRight():
         left = 0
         right = len(nums) - 1

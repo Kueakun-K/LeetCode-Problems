@@ -1,4 +1,4 @@
-def searchInsert(nums, target): #with Olon(n) algorithm
+def searchInsert(nums, target): #with O(log n) algorithm
     left = 0
     right = len(nums) - 1
     while left <= right:
